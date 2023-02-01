@@ -1,3 +1,3 @@
 #Hello World
 
-Exercise 1
+Exercise 1!
